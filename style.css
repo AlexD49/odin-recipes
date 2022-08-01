@@ -25,6 +25,14 @@ div {
     background-color: brown;
 }
 
+.header-bb {
+    background-color: rgb(223, 182, 69)
+}
+
+.header-cw {
+    background-color: rgb(235, 234, 173);
+}
+
 a {
     color: rgb(197, 43, 69);
 }
