@@ -4,6 +4,11 @@ body {
     text-align: center;
 }
 
+div {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
 .header-index,
 .header-lasagna,
 .header-bb,
