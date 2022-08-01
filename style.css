@@ -3,7 +3,7 @@ body {
     font-size: 18px;
 }
 
-h1 {
+.header {
     font-size: 45px;
     text-align: center;
     background-color: aquamarine;
@@ -11,4 +11,9 @@ h1 {
 
 a {
     color: rgb(197, 43, 69);
+}
+
+.links {
+    text-align: center;
+    list-style-type: none;
 }
