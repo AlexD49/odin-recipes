@@ -1,6 +1,7 @@
 body {
     font-family: "Times New Roman", sans-serif;
     font-size: 18px;
+    text-align: center;
 }
 
 .header-index,
@@ -23,7 +24,6 @@ a {
     color: rgb(197, 43, 69);
 }
 
-.links {
-    text-align: center;
+ul {
     list-style-type: none;
 }
