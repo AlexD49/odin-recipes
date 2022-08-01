@@ -3,10 +3,20 @@ body {
     font-size: 18px;
 }
 
-.header {
+.header-index,
+.header-lasagna,
+.header-bb,
+.header-cw {
     font-size: 45px;
-    text-align: center;
+    text-align: center; 
+}
+
+.header-index {
     background-color: aquamarine;
+}
+
+.header-bb {
+    background-color: brown;
 }
 
 a {
